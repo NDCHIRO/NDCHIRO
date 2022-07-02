@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amr-mohamed-salah-632b29195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amr-mohamed-salah-632b29195/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amr-mohamed-salah-632b29195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr-mohamed-salah-632b29195/" height="30" width="40" /></a>
 <a href="https://fb.com/ndchiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ndchiro/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/amrmohamed81298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/amrmohamed81298/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amrmohamed81298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amrmohamed81298/" height="30" width="40" /></a>
 <a href="https://discord.gg/N D CHIRO#2512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="N D CHIRO#2512" height="30" width="40" /></a>
 </p>
 
