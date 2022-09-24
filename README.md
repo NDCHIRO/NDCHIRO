@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndchiro&label=Profile%20views&color=0e75b6&style=flat" alt="ndchiro" /> </p>
 
-- 🔭 I’m currently working on **Instagram clone**
+- 🔭 I’m currently working on **twitter clone**
 
 - 🌱 I’m currently learning **firebase, aws**
 
