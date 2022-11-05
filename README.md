@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm amr mohamed salah</h1>
+<h1 align="center">Hi 👋, I'm Amr Mohamed Salah</h1>
 <h3 align="center">A passionate android developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndchiro&label=Profile%20views&color=0e75b6&style=flat" alt="ndchiro" /> </p>
