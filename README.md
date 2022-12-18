@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **instagram clone**
 
-- 🌱 I’m currently learning **firebase, aws**
+- 🌱 I’m currently learning ** aws**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
