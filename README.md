@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **path finder visualizer**
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Spring boot Framework**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
