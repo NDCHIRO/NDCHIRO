@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amr Mohamed Salah</h1>
-<h3 align="center">A passionate Software developer from Egypt</h3>
+<h3 align="center">A Senior Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndchiro&label=Profile%20views&color=0e75b6&style=flat" alt="ndchiro" /> </p>
 
-- 🔭 I’m currently working on **path finder visualizer**
-
-- 🌱 I’m currently learning **Spring boot Framework**
+- 🌱 I’m currently learning **Microservices & docker**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NDCHIRO](https://github.com/NDCHIRO)
 
 - 📫 How to reach me **amrmohamed81298@gmail.com**
-
-- 📄 Know about my experiences https://drive.google.com/drive/folders/1pasbeIYPY-ctu_M_PiZRkttwBBrW8QUA?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
